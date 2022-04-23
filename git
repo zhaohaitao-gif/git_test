@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-  print("hello wold\n");
+  print("hello chain\n");
   return 0;
 }
